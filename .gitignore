@@ -1,0 +1,4 @@
+cudart
+cudart.o
+*.jpg
+*.ppm
